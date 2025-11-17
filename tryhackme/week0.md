@@ -1,7 +1,7 @@
 # HTTP in Detail Room
 
 ## HTTP/HTTPS
-- HTTP, or hyper-text transfer protocol is the set of rules when trasmitting data about a webpage, such as HTML and images, from a web server to a webpage.
+- HTTP, or hyper-text transfer protocol is the set of rules when trasmitting data about a webpage, such as HTML and images, from a web server to a web client
 - HTTPS, or hyper-text transfer protocol secure is the same as HTTPS but now it uses encryption to make sure people can see data you are recieving or sending
 
 ## URL
