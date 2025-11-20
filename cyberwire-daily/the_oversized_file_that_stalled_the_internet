@@ -8,3 +8,8 @@
 
 - Whatsapp data was accessible online without protection (3.8b accounts), although no info was exposed
 - Photos of peoples faces enables facial recognition software
+
+- Cyber threat landscape right now is focused on humans being the weakest link
+- Developers pushing a lot of products to market quickly thanks to AI but they lack secure understanding of coding principles
+- AI adoption going too quickly for security to understand AI as an attack surface
+- AI is not "plug-and-play" you need to provide it heavy context
