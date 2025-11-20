@@ -8,3 +8,7 @@
     - HTML uses elements, classes, ID's
 - CSS stylizes websites
 - Javascript makes websites interactive by giving them functionality
+- Sensitive data exposure is when a website dosen't properly protect sensitive information
+    - In the pages source code you have to make sure there is no login info, hidden links, etc
+- HTML injection is when a website dosen't have the proper user-input sanitization protocols and therefore a user can input HTML or JS code to run on a website (assuming user input is used in HTML/JS on the websites end
+    - Ex: a text field that you can put your name in that uses JS to say "Hello ___", you can type in HTML/JS code to maliciously run something
