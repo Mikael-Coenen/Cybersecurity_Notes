@@ -1,0 +1,10 @@
+- When visiting a website your browser makes a request to a web server to get info about the page your visiting
+- The web server sends back the data that your browser uses to show the page
+- A web server is a dedicated computer somewhere in the world that handles your requests
+- Two major components that make up a website:
+    - Front end: how your browser renders a website
+    - Back end: a server that handles requests and gives a response
+- HTML is used to build a website and define its structure
+    - HTML uses elements, classes, ID's
+- CSS stylizes websites
+- Javascript makes websites interactive by giving them functionality
