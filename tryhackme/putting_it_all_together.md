@@ -1,0 +1,12 @@
+- When you request a website your computer needs to know the ip address of the webserver
+- It gets this through the DNS protocol (which resolves hostnames to their respective ip addresses)
+- The web server communicates with your computer with the HTTP protocol
+- The HTTP protocol specifies how a web server and web client communicate
+- The web server returns the HTML, CSS, JS to correctly display the website to you
+
+- Load balancers will direct website traffic to ensure that website can handle high traffic
+    - They will direct traffic to servers they deem best to handle your request
+    - They perform health checks to make sure servers are running normally, and if not, they stop sending requests to that server
+- Content delivery network (CDN) speeds up webpage loading time by allowing data from a web server to be stored in a CDN server which is geographically closer which speeds up loading time vs a webserver across the world
+- Web servers use databases to store and recall data
+- Web Application firewall sits between web requests and web servers to ensure a website dosent get hacked
