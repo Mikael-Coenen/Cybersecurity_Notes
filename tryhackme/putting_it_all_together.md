@@ -10,3 +10,6 @@
 - Content delivery network (CDN) speeds up webpage loading time by allowing data from a web server to be stored in a CDN server which is geographically closer which speeds up loading time vs a webserver across the world
 - Web servers use databases to store and recall data
 - Web Application firewall sits between web requests and web servers to ensure a website dosent get hacked
+- A web server is a software that listens for incoming traffic and uses the HTTP protocol to send web content to its clients
+- Virtual hosting is letting multiple websites sit on one physical server
+- Static content is content that dosent change, dynamic content is content that can change
