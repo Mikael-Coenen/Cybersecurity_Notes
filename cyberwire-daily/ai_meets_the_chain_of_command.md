@@ -1,0 +1,2 @@
+- US Cyber Command has new AI cheif officer
+- UK gov introduced cybersecurity resilience bill, cyber attacks cost UK economy 14.7B pounds/year
