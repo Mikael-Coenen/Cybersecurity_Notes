@@ -1,3 +1,3 @@
-- US Cyber Command has new AI cheif officer
+- US Cyber Command has new AI chief officer
 - UK gov introduced cybersecurity resilience bill, cyber attacks cost UK economy 14.7B pounds/year
 - Feeding AI chatbots requests in the form of poetry to jailbreak it has resulted in compliance
