@@ -1,0 +1,11 @@
+- Linux is very lightweight
+- Linux is an umbrella term for OS's based on UNIX
+- Ubuntu for example is a distribution of linux (a variant)
+
+- Learned commands:
+- Echo: outputs text you provide
+- whoami: tells you what user your currently logged in as
+- ls: lists directories/folders available
+- cd: change directory
+- cat: "concatenate" but really means output contents of a file
+- pwd: print working directory
