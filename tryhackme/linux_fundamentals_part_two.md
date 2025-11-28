@@ -1,1 +1,8 @@
-- 
+- SSH: allows you to remotely execute commands on another device, data is encrypted when sent over a network
+- To use SSH you need the IP address of the remote machine, and credentials to login that machine
+- To construct a command to log in to the remote machine using SSH: the command to do so is ssh and then the username of the account, @ the IP address of the machine.
+
+- Flags and switches can extend the behavior of commands, adding these keywords to commands allows us to do more
+- For example, ls lists all visible files, but ls -a lists all files, including the hidden ones
+- Doing --help will show all the options a command accepts
+- Man page is the manual page and gives documentation on Linux commands by doing ex: man ls
