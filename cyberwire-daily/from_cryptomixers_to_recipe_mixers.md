@@ -1,0 +1,4 @@
+- Calendar subscriptions (extensions that allow you to add events to your calendar) could have malicious intent behind them with phishing attacks, etc
+- NY's new cybersecurity mandate implement lots of security practices that could have nationwide effects
+- Thousands of fake sites created during cyber monday that could have make thousands before taken down (fake amazons, apples, etc)
+- Cyber diplomacy: need to think about what kind of rules we need to have in digital spaces in regard to nations cybersecurity
