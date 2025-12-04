@@ -1,1 +1,2 @@
-
+- Splunk: a SIEM that collects, stores, and analyzes data to detect and respond to security threats
+- Allows you to see web traffic, user agents, paths, user ip addresses, actions by users, etc
