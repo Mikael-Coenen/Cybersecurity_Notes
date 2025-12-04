@@ -18,3 +18,9 @@ New commands learned:
 - In Linux, permissions are highly granular, allowing a specific user to own a file while a designated group of different users can have separate permissions
 - You can switch between users with the command: su
 - The -l switch for the su command starts a login shell for the target user
+
+Common directories:
+- /etc: stores system files that are used by your OS system
+- /var: stores data that is frequently accessed or written by applications running on the system
+- /root: home directory for the root user
+- /tmp: stores data that only needs to be accessed once or twice, gets deleted when computer gets restarted
