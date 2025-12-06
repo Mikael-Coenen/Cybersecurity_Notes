@@ -4,3 +4,7 @@
 
 - Authentication: verifies who you are
 - Authorization: verifies your permissions
+
+- Privilege escalation types:
+    - Vertical privilege escalation: you gain access to more features
+    - Horizontal privilege escalation: you use features your authorized to use but get access to data your not supposed to have access to
