@@ -8,3 +8,5 @@
 - Privilege escalation types:
     - Vertical privilege escalation: you gain access to more features
     - Horizontal privilege escalation: you use features your authorized to use but get access to data your not supposed to have access to
+    - Most IDOR cases are horizontal privilege escalation
+- Best way to stop IDOR is for the server to check who is asking for the data every time, its not enough to hide or change the id number
