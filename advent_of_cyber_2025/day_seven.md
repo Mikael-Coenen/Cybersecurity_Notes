@@ -1,0 +1,7 @@
+- Nmap: tool that scans for open ports
+- Doing the command nmap (any ip address) scans the top 1000 most commonly used ports and reports if any services were running on them
+    - Adding -p- scans ALL ports (65535  of them)
+    - Adding --script=banner sees whats likely behind the port
+- Netcat: universal tool to interact with network services
+- You can switch to a UDP scan by using the flag -sU
+- dig is a command to perform advanced DNS queries
