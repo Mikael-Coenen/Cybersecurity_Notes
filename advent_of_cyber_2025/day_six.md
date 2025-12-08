@@ -7,3 +7,4 @@
 - Tool used for static analysis to take a look at check sum and strings: PeStudio
 - Regshot: tool used in dynamic analysis that takes two snapshots of the registry; one before and after the malware was run to see any changes
 - Malware aims to establish persistence: as soon as a device is turned on it runs
+- Process monitor (ProcMon): tool used to monitor and investigate how processes are interacting with the windows operating system
