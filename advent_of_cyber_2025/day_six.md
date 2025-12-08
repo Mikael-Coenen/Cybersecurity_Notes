@@ -1,0 +1,9 @@
+- Malware analysis: the process of examining a malware file to understand its functionality and methods for defence against it
+- Two branches of malware analysis:
+    - Static: focus on inspecting a file without executing it
+    - Dynamic: Involves execution
+- Sandboxes are used to execute potentially dangerous code and most of the time they are VM's
+- Some info that can be gathered from static analysis: checksums, strings, imports, resources
+- Tool used for static analysis to take a look at check sum and strings: PeStudio
+- Regshot: tool used in dynamic analysis that takes two snapshots of the registry; one before and after the malware was run to see any changes
+- Malware aims to establish persistence: as soon as a device is turned on it runs
