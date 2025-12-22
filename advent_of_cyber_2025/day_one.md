@@ -1,9 +1,0 @@
-- Linux commands I already knew: echo, ls, pwd, cd, cat, grep
-- Files and directories can be hidden if they start with a "."
-- New linux commands"
-    - ls -la: -a shows hidden files and -l shows file permissions and owners
-    - find: searches for files with certain parameters, such as -name
-- Files with file extension of .sh are shell scripts that have CLI commands
-- New shell operator: "|" which sends the output from the first command to the second one
-- Root user is the default, ultimate user who can do anything on the system, you can switch to the root user with "sudo su" and exit the root user with "exit"
-- Every command you run is saved in a hidden history file called your bash history and you can view it with the command "history"

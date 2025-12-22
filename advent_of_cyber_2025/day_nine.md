@@ -1,7 +1,0 @@
-- Dictionary attacks: attackers use a predefined list of potential passwords and trys each one
-- Brute force attacks: attackers try every combination of characters until it finds the right one
-- Mask attack: same as brute force but limits guesses to a specific format
-- How to detect these attacks:
-    - Try to detect if certain tools are being run in your environment, ex: john, hashcat, pdfcrack, etc
-    - High GPU utilization
-    - Large downloads of text files named rockyou.txt

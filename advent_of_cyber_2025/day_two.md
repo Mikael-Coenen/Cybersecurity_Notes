@@ -1,4 +1,0 @@
-- Social engineering: manipulating a user to make a mistake
-- Phishing: a subset of social engineering in which the communication medium is mainly messages (texts, emails, voice calls, etc)
-- Social engineering toolkit: an open source tool that can be used for social engineering attacks
-- Red teams (pen testers) simulate a phishing attack to see if employees yield sensitive info or not
