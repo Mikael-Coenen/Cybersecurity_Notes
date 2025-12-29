@@ -10,3 +10,7 @@
 ## SCP
 - Secure copy
 - Allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption
+
+## Web server
+- Ubuntu machines come pre-equipped with Python3
+- Python has a module called HTTPServer which allows you to quickly set up a HTTP web server
