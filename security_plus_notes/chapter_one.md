@@ -10,3 +10,6 @@
     - Disclosure: exposure of sensitive info to unauthorized individuals, violates confedentiality
     - Alteration: unauthorized modification of information, violates integrity
     - Denial: disruption of a legitimate users access to info, violates availability
+## Security Incident Impact Categories
+- Financial risk: risk of monetary damage to an organization as the result of a data breach
+- 
