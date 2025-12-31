@@ -56,7 +56,7 @@ Security control types are based on their desired effect:
 - DLP systems help organizations enforce info handling policies and procedures to prevent data loss and theft
 - DLP systems work in two different environments: ggent based and agentless (network-based)
 - Agent-based DLP: uses software agents installed on systems to search for sensitive info which allows security teams to secure that info
-- Agentless (network-based): dedicated devices that sit on the network and monitor outbound traffic
+- Agentless (network-based) DLP: dedicated devices that sit on the network and monitor outbound traffic
 
 ## DLP System mechanisms of action
 - Pattern matching: watch for telltale signs of sensitive info
