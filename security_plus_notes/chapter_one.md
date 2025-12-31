@@ -11,8 +11,8 @@
     - Disclosure: exposure of sensitive info to unauthorized individuals, violates confidentiality
     - Alteration: unauthorized modification of information, violates integrity
     - Denial: disruption of a legitimate users access to info, violates availability
-----------------------------------------------------------------------------------------------------------------------------------
-## Security Incident Impact Categories
+
+## Breach Impact Categories
 - Financial risk: risk of monetary damage to an organization as the result of a data breach
 - Reputational risk: when negative publicity around a security breach causes loss of goodwill among customers, employees, etc
 - Strategic risk: an organization will become less effective in meeting its major goals as result of a breach
