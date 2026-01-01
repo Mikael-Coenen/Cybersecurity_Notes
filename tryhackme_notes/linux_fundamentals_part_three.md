@@ -24,3 +24,8 @@
 - kill: using the kill command then the associated PID you can terminate a process
 - When a system boots systemd is one of the first processes that are started
 - Processes can run in two states: in the background and foreground
+
+## Automation
+- cron is a time-based job scheduler utility
+- crontab is the configuration file used to define the tasks
+- If you dont want to provide a value in the cron command just use *
