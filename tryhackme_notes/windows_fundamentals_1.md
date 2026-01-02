@@ -1,0 +1,15 @@
+## File System
+- New Technology File System (NTFS): the file system Windows uses
+- Previous file systems included: FAT16/FAT32 and HPFS
+- In case of failure NTFS can repair files/folders using info stored on a log file
+- NTFS supports files large than 4 GB
+- NTFS allows for file and folder compressions
+- NTFS has encryption
+- NTFS sets specific permissions on files and folders, these include:
+    - Full control
+    - Modify
+    - Read and execute
+    - List folder contents
+    - Read
+    - Write
+- Alternate Data Streams (ADS): feature of NTFS which lets you attach hidden data to files or folders without changing the main file's size or content
