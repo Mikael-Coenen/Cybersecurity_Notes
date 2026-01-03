@@ -1,0 +1,6 @@
+- White house wants US to take more offensive role against adversaries such as China, Iran, and Russia
+- They want the state gov's and private sector to be part of this effort
+- Not all states are equipped to do so, except Texas which has a much bigger budget for cyber and big military presence
+- Federal funding for a State and Local Cybersecurity Grant Program didnt get reauthorized in the house
+- When availibility of funding is volatile it weakens state potential to get involved in white house goals
+- Although this new offensive plan isnt out yet it has been said US could pursue indicting and arresting nation-state hackers
