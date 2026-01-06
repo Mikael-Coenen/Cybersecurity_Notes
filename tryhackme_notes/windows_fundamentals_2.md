@@ -1,0 +1,3 @@
+- The system configuration utility (MSConfig) is for advanced troubleshooting, main purpose is to diagnose start up problems
+- To view advanced system settings type view advanced system settings and you will get a panel that controls performace behavior and system recovery
+- You can change UAC settings in user account control settings
