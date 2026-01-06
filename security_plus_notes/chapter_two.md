@@ -12,5 +12,5 @@
 - Nation-state attackers: state-sponsored attackers that attack foreign governments or coporations, attackers are highly skilled, significant resources, motive can be political or economic, often uses advanced persistant threats (APT)*
 - Insider threat: occur when an employee, contractor, vendor, etc with authorization to info and systems uses that access to wage an attack against that organization, often aimed at disclosure of sensitive info, could be of any skill level, could have activist or financial motivations, usually working alone and has limited financial resources and time
 - Competitors: engage in corporate espionage to steal sensitive info from your organization and use it to their own business advantage
-* Side note: zero day attacks are when APT attackers discover an unknown vulnerability and exploit it, giving security teams zero days to fix it before the attack
+- * Side note: zero day attacks are when APT attackers discover an unknown vulnerability and exploit it, giving security teams zero days to fix it before the attack
 - Side note: shadow IT is when any technology used by employees for work purposes without the knowledge or approval of the organization, often to boost productivity creates a significant security risk for the company
