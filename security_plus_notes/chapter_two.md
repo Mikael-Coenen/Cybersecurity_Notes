@@ -30,7 +30,7 @@
 ## Threat vectors and attack surfaces
 - Attack surface: system, application, or service that contains a vulnerability threat actors might exploit
 - Threat vector: the means that threat actors use to obtain access
-## Type of threat vectors
+## Type of threat vectors and attack surfaces
 - Message-based: phishing messages, spam messages, email, text, voice calls, social media, as long as the threat actor gets the login credentials of a single user they can attack
 - Wired networks: gain access to an organizations wired network by physically entering the organizations facilities
 - Wireless networks: gain access to an organizations wireless network
