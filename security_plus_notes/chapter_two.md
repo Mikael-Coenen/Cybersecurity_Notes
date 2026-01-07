@@ -25,7 +25,7 @@
 - Ethical attacks: motivated to expose vulnerabilities and improve security
 - Revenge attacks: motivated to get even with an individual or organization by embarrassing them or extracting some other form of retribution
 - Disruption/chaos attacks: motivated to cause chaos and disrupt normal operations
-- War: hacking in an attempt to disrupt military operations
+- War: hacking in an attempt to disrupt military operations and change the outcome of an armed conflict
 
 ## Threat vectors and attack surfaces
 - Attack surface: system, application, or service that contains a vulnerability threat actors might exploit
