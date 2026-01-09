@@ -39,3 +39,28 @@
 - Removable devices: the use of removable media to spread malware
 - Cloud: attackers scan cloud services for files with security flaws
 - Supply chain: attacks attempt to interfere with an organizations IT supply chain including hardware providers, software providers, and service providers
+
+## Threat data and intelligence
+- Threat intelligence: set of activities and resources available to cybersecurity professionals seeking to learn about changes in the threat environment
+- Threat maps: provide a geographic view of threat intelligence
+- Indicators of compromise (IoCs): telltale signs an attack has taken place, threat intelligence sources may proivde IoCs
+
+## Open source intelligence
+- Open source threat intelligence: threat intelligence acquired from publicly available sources
+- Dark web: network run over standard internet connections but uses multiple layers of encryption to provide anonymous communication
+
+## Propreitary and closed-source intelligence
+- Closed source intelligence: threat intelligence that is not publicly available and typically requires a fee, subscription, or special clearance to access
+
+## Assessing threat intelligence
+- Is it timely?
+- Is the info accurate?
+- Is the info relevant?
+- Confidence score: tell an organzation how much trust they can give a piece of threat intelligence
+
+## Threat indicator management and exchange
+- Structured Threat Information eXpression (STIX): an XML language (a markup language that is readable by both humans and machines) used for describing and sharing threat intelligence, newer versions use JSON
+- Trusted Automated eXchange of Intelligence Information (TAXII): allow cyber-threat info to be communicated at the application layer via HTTPS
+
+Information sharing organizations
+- Information Sharing and Analysis Centers (ISACs): help infrastructure owners and operators share threat info and provide tools and assistance to their members
