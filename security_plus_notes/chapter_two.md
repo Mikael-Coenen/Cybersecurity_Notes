@@ -50,7 +50,7 @@
 - Dark web: network run over standard internet connections but uses multiple layers of encryption to provide anonymous communication
 
 ## Propreitary and closed-source intelligence
-- Closed source intelligence: threat intelligence that is not publicly available and typically requires a fee, subscription, or special clearance to access
+- Closed source threat intelligence: threat intelligence that is not publicly available and typically requires a fee, subscription, or special clearance to access
 
 ## Assessing threat intelligence
 - Is it timely?
