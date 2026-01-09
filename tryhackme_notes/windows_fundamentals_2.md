@@ -1,3 +1,8 @@
 - The system configuration utility (MSConfig) is for advanced troubleshooting, main purpose is to diagnose start up problems
 - To view advanced system settings type view advanced system settings and you will get a panel that controls performace behavior and system recovery
 - You can change UAC settings in user account control settings
+- The Computer Management (compmgmt) utility has three primary sections: System Tools, Storage, and Services and Applications
+    - System tools
+      - Task Scheduler: we can create and manage tasks that our computer will automatically carry out at a specified time
+      - Event viewer: view events that have occured on the computer
+- System Information (msinfo32) tool: information about your computer and displays a comprehensive view of your hardware, system components, and software environment, which you can use to diagnose computer issues
