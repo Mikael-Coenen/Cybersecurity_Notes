@@ -6,3 +6,13 @@
       - Task Scheduler: we can create and manage tasks that our computer will automatically carry out at a specified time
       - Event viewer: view events that have occured on the computer
 - System Information (msinfo32) tool: information about your computer and displays a comprehensive view of your hardware, system components, and software environment, which you can use to diagnose computer issues
+- Resource monitor (resmon): provides a detailed, real-time view of your computer's hardware performance, showing live graphs and data for CPU, memory, disk, and network usage to help diagnose system slowdowns or application issues
+- Command prompt simple commands:
+    - hostname: output computer name
+    - whoami: name of logged-in user
+    - ipconfig: network address settings for the computer
+    - /?: retrieves help manual for commands
+    - cls: clears command prompt screen
+    - netstat: will display protocol statistics and current TCP/IP network connections
+    - net: manage network resources (you will need to add a sub-command) (also /? wont work you'll need to do: net help)
+-  Windows Registry (regedit): central hierarchical database used to store information necessary to configure the system for one or more users, applications, and hardware devices
