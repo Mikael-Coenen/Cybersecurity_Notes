@@ -17,7 +17,7 @@
 ## Trojans
 - Malware that is typically disguised as legitimate software
 - Example: Triada Trojan: the guise is a feature-enhanced WhatsApp version
-- When application is launched the Trojan gathers info about the devince and registers it with a remote server which allows futhur actions to take place
+- When application is launched the Trojan gathers info about the device and registers it with a remote server which allows furthur actions to take place
 - Remote Acess Trojans (RATs): provide attackers with remote access to systems
 - IOC's include:
     - Signatures for the specific malware apps or downloadable files
@@ -25,4 +25,25 @@
     - Folders or files created on target devices
 - Mitigation practice: awareness practices, control software and applications that users can acquire, anti-malware and other tools to identify and stop trojans
 
-- Side note: many types of malware use command and control (C&C) techniques to allow attackers to tell them what to do. These groups of systems under central command are botnets, individual systems are bots. C&C increasingly uses encrpyted HTTP connections
+- Side note: many types of malware use command and control (C&C) techniques which is the communication channel attackers use to remotely manage compromised systems. A bot is an infected, internet-connected device, while a botnet is a network of these bots acting in unison.
+
+## Worms
+- Malware that spreads and self-replicates by exploiting security flaws
+- Self-replicates without requiring users to click on them
+- IOC's include:
+    - Known malicious files
+    - Downloads of additional components from remote systems
+    - Command and control contact to remote systems
+    - Malicious behaviors using system commands for injection and other activities
+    - Hands-on-keyboard attacker activity
+- Mitigation practice: network-level controls focused on preventing infection traffic, also to limit attack surfaces
+
+## Spyware
+- Malware that is designed to obtain info about an individual, organizaiton, or system
+- IOC's include:
+    - Remote-access and remote-control-related indicators
+    - Known software file fingerprints
+    - Malicious processes, often disguised as system processes
+    - Injection attacks against browsers
+- Spyware uses techniques from other types of malware
+- Mitigation practice: awareness, control of the software that is allowed on devices and systems, and antispyware capabilities built into antimalware tools
