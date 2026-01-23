@@ -1,0 +1,8 @@
+- Windows updates provide security updates
+- Patch Tuesday: Updates are typically released on the 2nd Tuesday of the month
+- Windows security includes:
+    - Virus and threat protection
+    - Firewall and network protection
+    - App and browser control
+    - Device security
+- Virus and threat protection: contains sections on current threats and virus & threat protection settings
