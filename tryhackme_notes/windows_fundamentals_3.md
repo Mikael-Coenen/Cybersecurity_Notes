@@ -6,3 +6,7 @@
     - App and browser control
     - Device security
 - Virus and threat protection: contains sections on current threats and virus & threat protection settings
+- Firewall and network protection: Gives you various controls over firewalls
+- App and browswer control: protects against phishing and malware from applications or websites
+- Device security: security that comes built into your device
+- Trusted Platform Module (TPM): a specialized, tamper-resistant hardware chip on a computer's motherboard or processor that enhances security by storing cryptographic keys, passwords, and digital certificates
