@@ -1,0 +1,9 @@
+- set: displays all current environment variables, in THM room it was used to display the path
+- ver: displays the OS version
+- systeminfo: displays various info about the system
+- some command | more: allows you to view long blocks of text in pages
+- help: provides info about a specific command
+- cls: clears command prompt screen
+- ipconfig: to check network info
+- ipconfig /all: for more info about your network configuration
+- 
