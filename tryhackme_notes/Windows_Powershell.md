@@ -56,3 +56,7 @@
 - Get-Service: status of services on machine
 - Get-NetTCPConnection: displays current TCP connections
 - Get-FileHash -Path: generates file hashes
+
+## Scripting
+- Scripting: the process of writing and executing commands in a text file to automate tasks
+- Invoke-Command: runs commands on local and remote computers
