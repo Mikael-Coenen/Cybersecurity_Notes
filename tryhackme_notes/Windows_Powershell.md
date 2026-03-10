@@ -50,3 +50,9 @@
 - Get-LocalUser: lists all the local users accounts on the system
 - Get-NetIPConfiguration: provides info about the network interfaces on the system (ip addresses, DNS servers, etc)
 - Get-NetIPAddress: details for all IP addresses configured on the system
+
+## Real Time System Analysis
+- Get-Process: lists all currently running processes
+- Get-Service: status of services on machine
+- Get-NetTCPConnection: displays current TCP connections
+- Get-FileHash -Path: generates file hashes
